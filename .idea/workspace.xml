@@ -2,12 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4565353-f49b-4ffa-a3ab-c3bb50e74b0d" name="Changes" comment="I made a comment">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ablog.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/myblog/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/myblog/apps.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -152,8 +146,16 @@
       <workItem from="1642161574264" duration="3554000" />
       <workItem from="1642330223494" duration="2806000" />
       <workItem from="1642338767188" duration="1632000" />
-      <workItem from="1642345351049" duration="1760000" />
+      <workItem from="1642345351049" duration="2178000" />
     </task>
+    <task id="LOCAL-00001" summary="I made a comment">
+      <created>1642347140753</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1642347140753</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
